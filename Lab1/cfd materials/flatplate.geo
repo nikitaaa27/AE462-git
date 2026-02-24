@@ -50,7 +50,7 @@ Transfinite Curve {1, 3, 2} = 60 Using Progression 1.2;
 //+
 Transfinite Curve {5, 4} = 20 Using Progression 1.1;
 //+
-Transfinite Curve {6, 7} = 60 Using Progression 1.05;
+Transfinite Curve {6, 7} = 60 Using Progression 1.0;
 //+
 Recombine Surface {1};
 //+
