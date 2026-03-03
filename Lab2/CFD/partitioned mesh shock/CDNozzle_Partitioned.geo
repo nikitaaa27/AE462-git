@@ -48,7 +48,7 @@ Plane Surface(3) = {3};
 //+
 Transfinite Surface {2};
 //+
-Transfinite Curve {7, 10} = 120 Using Bump 12;
+Transfinite Curve {7, 10} = 60 Using Bump 12;
 //+
 Transfinite Curve {3, 2} = 200 Using Progression 1;
 //+
